@@ -1,0 +1,12 @@
+{
+  "name": "whatsapp-bot-ahmed",
+  "version": "1.0.0",
+  "description": "Customized WhatsApp bot for Ahmed",
+  "main": "index.js",
+  "scripts": {
+    "start": "PHONE_NUMBER=201119815662 node index.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.26.0"
+  }
+}
